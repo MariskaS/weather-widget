@@ -9,15 +9,27 @@ git clone https://github.com/MariskaS/weather-widget.git
 ```
 npm install
 ```
+If you want to open the application in the browser
 ```
 npm start
 ```
+
+If you want to open the application in a desktop app
+```
+npm start
+```
+```
+npm electron
+```
+
 [localhost:3000](http://localhost:3000)
 
 
 ## Built With
 
 * [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started) - Tool built by developers at Facebook to help you build React applications.
+* [electron](https://electronjs.org/)
+
 
 
 
